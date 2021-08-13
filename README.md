@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitanya Kumar 
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on EDA and Regression projects.
+- 🌱 I’m currently learning Machine Learning & Deep Learning.
+- I’m looking to collaborate on ML projects.
 
 
 <!---
