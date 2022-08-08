@@ -8,6 +8,7 @@
 - Computer Vision
 - Remote Sensing
 
+
 ### 🏐 Open to Collaborate on
 - Projects in the domain of Computer Vision
 - Anything you deem awesome!
