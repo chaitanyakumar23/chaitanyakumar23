@@ -9,7 +9,7 @@
 - Remote Sensing
 
 ### 🏐 Open to Collaborate on
-- Projects in the domain of Computer Vision
+- Open Source Projects
 - Anything you deem awesome!
 
 ### GitHub Stats
