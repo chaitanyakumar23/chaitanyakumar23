@@ -1,6 +1,6 @@
 ## 👋Hi, I am Chaitanya Kumar
 
-🏫 I am a final year student pursuing my Bachelors in Civil Engineering, with an interest in Data and Design.
+🏫 I am a final year student pursuing my Bachelors in Civil Engineering, with an interest in Data Science, Graphic Design & Product Management.
 
 👨‍💻 I am fascinated by Machine Learning, Graphic Design & I'm a quick learner when it comes to new domains.
 
