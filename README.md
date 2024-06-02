@@ -1,11 +1,11 @@
 ## 👋Hi, I am Chaitanya Kumar
 
-🏫 I am a final year student pursuing my Bachelors in Civil Engineering, with an interest in Data Science, Graphic Design & Product Management.
+🏫 Engineer with a passion for Data Science, a flair for Graphic Design, and a knack for Product Management.
 
 👨‍💻 I am fascinated by Machine Learning, Graphic Design & I'm a quick learner when it comes to new domains.
 
 ### 🔍 What I'm learning and working on
-- Computer Vision
+- NLP
 - Remote Sensing
 
 ### 🏐 Open to Collaborate on
