@@ -5,8 +5,7 @@
 👨‍💻 I am fascinated by Machine Learning, Graphic Design & I'm a quick learner when it comes to new domains.
 
 ### 🔍 What I'm learning and working on
-- NLP
-- Remote Sensing
+- Data Engineering: Building pipelines & dashboards that actually help.
 
 ### 🏐 Open to Collaborate on
 - Open Source Projects
